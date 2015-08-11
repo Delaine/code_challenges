@@ -1,4 +1,4 @@
-# Fizzbuzz.rb was created by Nehemiah Andrews
+# Fizzbuzz.rb was created by Delaine Lawrence
 # to demonstrate an alternative to the classic
 # Fizzbuzz problem without the Modulus operator
 
